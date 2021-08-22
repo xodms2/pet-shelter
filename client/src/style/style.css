@@ -1,0 +1,12 @@
+.container {
+  width: 90%;
+}
+
+.label {
+  margin: 30px 30px 50px 30px;
+  padding-bottom: 30px;
+}
+
+.bottomMargin {
+  margin-bottom: 30px;
+}
